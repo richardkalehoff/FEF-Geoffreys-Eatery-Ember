@@ -1,11 +1,14 @@
 <div class="menu-container">
   {{#each content as |menuItem|}}
   <div class="menu-item">
-    <h2 class="menu-item__heading">{{menuItem.title}}</h2>
+    <h2 class="menu-item__heading">{{link-to menuItem.title 'dish' menuItem.name}}</h2>
     <div class="menu-item__stats">{{menuItem.rating}} stars</div>
     <div class="menu-item__image">
+      {{#link-to 'dish' menuItem.name}}
       <img src="{{menuItem.img}}.jpeg" alt="{{menuItem.img}}">
+      {{/link-to}}
     </div>
+    {{link-to menuItem.name 'dish' menuItem.name}}
   </div>
   {{/each}}
 </div>
