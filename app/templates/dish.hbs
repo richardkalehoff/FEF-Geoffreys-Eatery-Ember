@@ -1,1 +1,23 @@
+{{link-to 'Menu' 'menu'}}
+<div class="dish">
+  <div class="dish__title">{{content.title}}</div>
+  <div class="dish__rating">{{content.rating}}</div>
+  <div class="dish__image"><img src="{{content.img}}.jpeg" alt="{{content.title}}"></div>
+  <ul>
+  {{#each content.ingredients as |ingredient|}}
+    <li>
+      <strong>Ingredient</strong> {{ingredient.item}}
+      {{#if ingredient.qty}}
+        <strong>Qty</strong> {{ingredient.qty}}
+      {{/if}}
+    </li>
+  {{/each}}
+  </ul>
+  <ol class="dish__directions">
+  {{#each content.directions as |step|}}
+    <li>{{step}}</li>
+  {{/each}}
+  </ol>
+</div>
+
 {{outlet}}
