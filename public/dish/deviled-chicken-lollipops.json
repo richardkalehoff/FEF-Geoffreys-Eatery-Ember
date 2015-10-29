@@ -1,0 +1,24 @@
+{
+  "name": "deviled-chicken-lollipops",
+  "title": "Deviled Chicken Lollipops",
+  "rating": 4.2,
+  "img": "chicken-lollipops",
+  "ingredients": [
+    {"item": "chicken drumettes", "qty": "12"},
+    {"item": "kosher salt,", "qty": "1 teaspoon"},
+    {"item": "Freshly ground black pepper", "qty": ""},
+    {"item": "sandwich sourdough bread", "qty": "3 slices"},
+    {"item": "garlic, roughly chopped", "qty": "1 clove"},
+    {"item": "fresh flat-leaf parsley leaves", "qty": "1/4 cup"},
+    {"item": "scallions", "qty": "2"},
+    {"item": "unsalted butter, melted", "qty": "2 tablespoons"},
+    {"item": "honey mustard", "qty": "1/3 cup"},
+    {"item": "Hot sauce", "qty": ""}
+  ],
+  "directions": [
+    "Preheat the oven to 450 degrees F or a convection oven to 425 degrees F",
+    "Stand a drumette on its wide end and, holding the narrow bone at the top, use a paring knife to push and scrape the skin and meat downward to expose the bone and make a plump \"lollipop\" of chicken at the bottom. Repeat with the remaining drumettes. Season generously with salt and pepper and set aside.",
+    "Pulse the bread in a food processor to make coarse bread crumbs, (about 12 times). Add the garlic, parsley, scallions, 1 teaspoon salt, pepper, to taste, and continue to pulse until finely chopped but not a paste. Transfer the mixture to a shallow bowl and toss with melted butter.",
+    "Brush each drumette with some honey mustard. Then press and roll each one in the bread crumbs to coat. Arrange the drumettes (standing up if you can) on a rack set over a baking sheet. Roast until chicken is cooked and the bread crumbs are golden brown and crisp, 20 to 25 minutes. Serve drumettes hot or at room temperature with hot sauce, if desired."
+  ]
+}

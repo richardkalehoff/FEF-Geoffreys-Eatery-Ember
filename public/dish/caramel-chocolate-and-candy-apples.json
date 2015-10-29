@@ -1,0 +1,22 @@
+{
+  "name": "caramel-chocolate-and-candy-apples",
+  "title": "Caramel, Chocolate and Candy Apples",
+  "rating": 5,
+  "img": "candy-apples",
+  "ingredients": [
+    {"item": "Vegetable oil cooking spray", "qty": ""},
+    {"item": "apples, washed and dried, stems removed", "qty": "6"},
+    {"item": "soft caramel candies, unwrapped", "qty": "2 bags"},
+    {"item": "pulp-free orange juice", "qty": "1/4 cup"},
+    {"item": "53 percent cocoa dark chocolate, chopped into 1/2-inch pieces", "qty": "1 bar"},
+    {"item": "small candies", "qty": ""},
+    {"item": "chopped nuts", "qty": ""},
+    {"item": "sprinkles", "qty": ""},
+    {"item": "craft or thick wooden sticks", "qty": "6"}
+  ],
+  "directions": [
+    "Line a baking sheet with parchment paper and spray it with vegetable oil cooking spray. Insert the craft sticks halfway into the stem-ends of the apples.",
+    "In a medium, heavy saucepan, over low heat, combine the caramel candies and orange juice. Cook, stirring occasionally, until the candies have melted and the mixture is smooth, about 10 minutes. Set aside to cool for 2 minutes. Dip the apples in the caramel until coated and put them on the parchment paper until firm, about 2 hours.",
+    "Put the chocolate in a medium bowl and set it over a pan of barely simmering water. Stir until the chocolate is smooth and melted. Using a fork, drizzle the melted chocolate over the caramel. Put the apples back on the parchment paper for 10 minutes. Sprinkle with small candies, chopped nuts or sprinkles and allow the chocolate to harden, at room temperature, for about 3 to 4 hours."
+  ]
+}

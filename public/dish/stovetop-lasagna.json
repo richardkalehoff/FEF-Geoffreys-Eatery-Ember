@@ -1,0 +1,24 @@
+{
+  "name": "stovetop-lasagna",
+  "title": "Stovetop Lasagna",
+  "rating": 3.1,
+  "img": "lasagna",
+  "ingredients": [
+    {"item": "Kosher salt"},
+    {"item": "lasagna noodles", "qty": "7"},
+    {"item": "extra-virgin olive oil", "qty": "1 tablespoon"},
+    {"item": "ground meatloaf mix", "qty": "1 pound"},
+    {"item": "tomato sauce", "qty": "2 cups"},
+    {"item": "red pepper flakes", "qty": "1/8 teaspoon"},
+    {"item": "baby spinach", "qty": "3 cups"},
+    {"item": "ricotta cheese", "qty": "1/3 cup"},
+    {"item": "shredded mozzarella cheese", "qty": "1 cup"},
+    {"item": "grated parmesan cheese", "qty": "6 tablespoons"},
+    {"item": "thinly sliced fresh basil", "qty": "1/4 cup"}
+  ],
+  "directions": [
+    "Preheat the broiler. Fill a wide pot with 3 inches of salted water and bring to a boil. Add the noodles and cook until al dente, about 11 minutes, then drain, transfer to a cutting board and halve crosswise.",
+    "Meanwhile, heat the olive oil in a large skillet over medium-high heat. Add the ground meat and cook, stirring, until browned. Add the tomato sauce and red pepper flakes and simmer 5 minutes. Add the spinach and stir until it wilts, then add the ricotta and bring to a low simmer. Season with salt and remove from the heat. Toss the mozzarella and 4 tablespoons parmesan in a bowl.",
+    "Cover the bottom of an 8-inch-square baking dish with a layer of slightly overlapping lasagna noodles. Top with half of the meat sauce and half of the cheese mixture. Repeat with another layer of noodles and the remaining meat sauce and cheese mixture. Cover with the remaining noodles and sprinkle with the remaining 2 tablespoons parmesan. Drizzle lightly with olive oil and broil until golden and bubbling, 3 to 5 minutes. Top with the basil."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "shake-n-shimmy-pork-chops",
+  "title": "Shake n' Shimmy Pork Chops",
+  "rating": 3.7,
+  "img": "pork-chops",
+  "ingredients": [
+    {"item": "water", "qty": "2 quarts"},
+    {"item": "salt", "qty": "1/4 teaspoon"},
+    {"item": "sugar", "qty": "3 tablespoons"},
+    {"item": "brown sugar", "qty": "1 tablespoon"},
+    {"item": "pork chops", "qty": "4"},
+    {"item": "panko bread crumbs", "qty": "2 cups"},
+    {"item": "finely grated Parmesan", "qty": "1/2 cup"},
+    {"item": "chopped parsley leaves", "qty": "2 tablespoons"},
+    {"item": "Kosher salt", "qty": ""},
+    {"item": "freshly ground black pepper", "qty": ""},
+    {"item": "large, beaten eggs", "qty": "3"},
+    {"item": "vegetable oil", "qty": ""}
+  ],
+  "directions": [
+    "Brine: Add all of the ingredients to a large pot, and put the pork chops into the brine, allowing them to soak for 1 hour.",
+    "Preheat a grill to medium heat.",
+    "Add the panko, cheese, parsley, salt, and pepper, to taste, to a large heavy duty resealable plastic bag. Add the beaten eggs to a casserole dish. Remove the pork chops from brine. Dredge the chops through the eggs and shake them, 1 at a time, in the bread crumb mixture.",
+    "Oil the grill grates with a clean tea towel dipped in vegetable oil. Put the chops on the grill and cook for 10 minutes with the lid shut. Flip the pork chops and cook, covered, for another 10 minutes. Transfer the chops to a serving platter and serve."
+  ]
+}
